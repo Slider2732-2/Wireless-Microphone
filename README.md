@@ -8,7 +8,7 @@ A more regular ESP32 is intended in the next stage, a repurposed ESP32-CAM, to b
 <br>
 Several factors may determine successful running of the project at this stage:<br>
 Python3 has been used, which entails you have an up to date Python environment. <br>
-You may have to run the receiving code in a virtual environment - which is outside of the scope of this Github repository. Basically, online help will certainly allow the copy and paste of the few commands to get the Python code to run. That situation should resolve issues away from Linux, for Windows and Mac PC's 
+You may have to run the receiving code in a virtual environment - which is outside of the scope of this Github repository. Basically, online help will certainly allow the copy and paste of the few commands to get the Python code to run. That situation should resolve issues away from Linux, for Windows and Mac PC's. 
 Your ESP32 Audio Kit should be running the AC101 CODEC. Though, the ES8388 can certainly be used by replacing the AC101 specific calls.  
 <br>
 <br>
