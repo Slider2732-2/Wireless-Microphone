@@ -21,6 +21,6 @@ udp_audio-AudioKit.py should be run from the terminal, inside the directory wher
 <br>
 Specs are - <br>
 Quality: 16KHz, 16 bit transmission and reception <br>
-Range: approx 200ft (largely dependent on Wifi router power, location, local conditions) <br>
+Range: Approx 200ft (largely dependent on Wifi router power, location, local conditions) <br>
 Packet loss: None to very low within the expected WiFi range <br>
 
