@@ -13,5 +13,14 @@ Your ESP32 Audio Kit should be running the AC101 CODEC. Though, the ES8388 can c
 <br>
 <br>
 <br>
-ESP32_AudioKit_AudioSender.ino should be upl0oaded to the ESP32 Audio Kit V2.2
+ESP32_AudioKit_AudioSender.ino should be uploaded to the ESP32 Audio Kit V2.2
 <br>
+udp_audio-AudioKit.py should be run from the terminal, inside the directory where the file is located.
+<br>
+<br>
+<br>
+Specs are - 
+Quality: 16KHz, 16 bit transmission and reception
+Range: approx 200ft (largely dependent on Wifi router power, location, local conditions)
+Packet loss: None to very low within the expected WiFi range
+
